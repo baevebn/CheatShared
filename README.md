@@ -1,2 +1,2 @@
 # CheatShared
-Cheat Engine Hack Module
+Fastrun for walkthrough the game.Cheat Project BETA freeware.  
