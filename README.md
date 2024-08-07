@@ -1,3 +1,3 @@
 # CheatShared
-Cheat Shared Engine Freeware Project.
-Walkthrough speedrun with Cheat Machine.
+Cheat Engine (Freeware Project).
+Walkthrough Speedrun With Cheat Machine.
